@@ -14,3 +14,7 @@ One key shell script for testing shadowsocks-libev, v2ray transfer speed by iper
 
 `./proxytest.sh [v2ray|shadowsocks-libev] [method]`
 
+## Example
+
+![](test.png)
+
