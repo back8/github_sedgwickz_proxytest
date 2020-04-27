@@ -1,5 +1,9 @@
 # proxytest
 
+iperf3 一键测试shadowsocks-libev, v2ray 速度脚本
+
+One key shell script for testing shadowsocks-libev, v2ray transfer speed by iperf3
+
 ## Usage
 
 - One key test with remote script
